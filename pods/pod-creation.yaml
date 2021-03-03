@@ -4,6 +4,7 @@ metadata:
   name: test
   labels:
     app: parsian
+    type: backend
 
 
 spec:

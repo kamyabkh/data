@@ -4,7 +4,7 @@ metadata:
   name: myapp-pod
   labels:
     app: test2
-    type: front
+    type: frontend
 
 spec:
   containers:
